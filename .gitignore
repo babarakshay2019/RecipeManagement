@@ -1,0 +1,4 @@
+__pycache__
+RecipeManagement.db
+env/
+.env
